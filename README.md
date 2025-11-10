@@ -9,25 +9,30 @@ Material for SpikeInterface Tutorial Lyon November 2025
 
 13h30-16h30 : **Practicals**
 
-1. Reading + Manipulation (30 min - Chris)
+0. Check installation (10minn)
+
+1. Reading + Manipulation (20 min)
     - Read and visualise data
     - The importance of probes
 
-2. Preprocessing (45 min - Alessio)
+2. Preprocessing (30 min)
     - Apply and visualize preprocessing 
     - Detect bad channels
     - Motion correction
 
-3. Spike sort (30 min - Sam)
+3. Spike sort (30 min)
     - Run a spike sorter
     - Compare spike sorter outputs
 
-4. Analyze Sorting (45 min - Chris)
+4. Analyze Sorting (45 min)
     - Create a `SortingAnalyzer` to explore your sorting
     - Compute some extensions
     - Play with the extension outputs
 
-5. Curate (30 min - Alessio) 
+5. Manual curation with Spikeinterface GUI (30min)
+    - demo
+
+5. Automaatic uration (30 min - Alessio) 
     - Simple, threshold-based curation
     - Curation using ML models
     - Merging units
